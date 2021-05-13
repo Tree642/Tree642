@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tree
 - I mainly work in Discord
-- I currently own a server with around 90+ members 
-- As well as developing a bot called Quoted which I plan to release in a few months
+- I currently own a server with around 100+ members 
+- As well as developing a bot called Quoted. 
 
 If you want to contact me, do so via Discord: Tree642#9592
 
