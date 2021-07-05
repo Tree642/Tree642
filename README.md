@@ -1,5 +1,5 @@
 
-https://discord.bio/p/tree642
+<https://discord.bio/p/tree642>
 
 - 👋 Hi, I’m @Tree
 - I mainly work in Discord
