@@ -1,3 +1,6 @@
+
+https://discord.bio/p/tree642
+
 - 👋 Hi, I’m @Tree
 - I mainly work in Discord
 - I currently own a server with around 150+ members 
