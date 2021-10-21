@@ -1,11 +1,9 @@
-
-<a href="https://discord.com/users/695360125338124379">
-  <img src="hhttps://lanyard-profile-readme.vercel.app/api/695360125338124379" align="right" />
-</a>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/695360125338124379
+                            )](https://discord.com/users/695360125338124379)
 
 
 
-##📈 Github Stuff
+## 📈 Github Stuff
 
 ![GitHub Metrics](https://metrics.lecoq.io/Tree642)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tree642&show_icons=true&locale=en)
