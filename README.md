@@ -1,10 +1,7 @@
 # Hey There!
 
-I'm Tree
+I'm [Tree! 🌳](https://discord.com/users/695360125338124379)
 
-<a href="https://discord.com/users/695360125338124379">
-  <img src="https://lanyard-profile-readme.vercel.app/api/695360125338124379" align="right" />
-</a>
 
 
 ## 📈 Github Stuff
