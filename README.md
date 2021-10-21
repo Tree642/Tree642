@@ -2,8 +2,8 @@
 
 I'm Tree
 
-<a href="https://discord.com/users/397142169506414592">
-  <img src="https://lanyard-profile-readme.vercel.app/api/397142169506414592" align="right" />
+<a href="https://discord.com/users/695360125338124379">
+  <img src="https://lanyard-profile-readme.vercel.app/api/695360125338124379" align="right" />
 </a>
 
 
